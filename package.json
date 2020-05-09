@@ -26,16 +26,16 @@
   "author": "Mike Fogel <mike@fogel.ca>",
   "license": "ISC",
   "dependencies": {
-    "bluebird": "^3.5.1",
-    "mkdirp": "^0.5.1",
-    "polygon-clipping": "^0.6.1",
+    "bluebird": "^3.7.2",
+    "mkdirp": "^0.5.5",
+    "polygon-clipping": "^0.14",
     "split": "^1.0.1",
-    "yargs": "^11.0.0"
+    "yargs": "^11.1.1"
   },
   "devDependencies": {
     "child-process-promise": "^2.2.1",
-    "coveralls": "^3.0.0",
-    "jest": "^22.4.2",
-    "rimraf": "^2.6.2"
+    "coveralls": "^3.1.0",
+    "jest": "^22.4.4",
+    "rimraf": "^2.7.1"
   }
 }
