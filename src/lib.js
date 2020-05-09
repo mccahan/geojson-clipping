@@ -96,7 +96,7 @@ const writeOutputMultiPoly = async (opts, multiPoly) =>
     }
     const geojson = {
       type: 'Feature',
-      properties: null,
+      properties: {},
       geometry: {
         type: 'MultiPolygon',
         coordinates: multiPoly
